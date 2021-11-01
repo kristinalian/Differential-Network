@@ -1,0 +1,2 @@
+# Differential-Network
+Differential Analysis GGM.  GGM between tissue vs. serum metabolites, highlighting differential analysis between non-tumorous - tumorous tissue. Triangular nodes represent tissue metabolites, while square nodes represent serum metabolites. Red nodes represent the metabolites that are upregulated in tumor tissue, while blue nodes represent metabolites that are downregulated. The darker the color of the node, the more significant the difference is.
